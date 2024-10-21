@@ -1,0 +1,60 @@
+body
+{
+    background-color:aquamarine
+}
+h3
+{
+    text-align: center;
+    font-family: sans-serif;
+    font-size:larger;
+    font-weight: bolder;
+    color: black;
+}
+table,th,td
+{
+    border: 2px solid black;
+    text-align: center;
+    font-weight: bold;
+    padding:15px;
+    background-color:lavender
+}
+table
+{
+    margin-left: 400px;
+}
+.white
+{
+    background-color: whitesmoke;
+    text-align: center;
+}
+.orange
+{
+    background-color: orange;
+}
+.red
+{
+    background-color: brown;
+}
+.blue
+{
+    background-color:cornflowerblue;
+}
+.a
+{
+    font-weight: bold;
+    color:orange;
+}
+.b
+{
+    font-weight: bold;
+    color: brown;
+}
+.c
+{
+    font-weight: bold;
+    color:royalblue;
+}
+.button
+{
+    background-color: red;
+}
