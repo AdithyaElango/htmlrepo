@@ -1,0 +1,56 @@
+.maindiv
+{
+    border: 2px solid black;
+    display: flex;
+    margin-top: 90px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: blueviolet;
+}
+.login
+{
+    border: 2px solid black;
+    height: 500px;
+    width: 500px;
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: antiquewhite;
+}
+h1
+{
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 100px;
+}
+h2
+{
+    padding-bottom: 40px;
+}
+.tick1
+{
+    margin-top: 20px;
+}
+.pic
+{
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.buttons
+{
+    margin-top: 20px;
+}
+.fp
+{
+    margin-left: 80px;
+}
+.internalform
+{
+    margin-left: 100px;
+}
+.icon
+{
+    margin-top: 20px;
+    margin-left: 20px;
+}
