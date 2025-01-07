@@ -1,0 +1,40 @@
+body
+{
+    background-color: darkcyan;
+}
+.comName
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.comName div:nth-child(1){
+ color: plum;
+}
+.comName div:nth-child(2){
+    color: royalblue;
+}
+.logo
+{
+    color:mediumvioletred ;
+    padding-top: 10%;
+}
+
+.content{
+    display: flex;
+    flex-direction: row;
+}
+
+.content div:nth-child(1) { 
+    height: 100%;
+    width:  50%;
+}
+ 
+.content div:nth-child(2) {
+    height: 100%;
+    width: 50%;
+}
+.image
+{
+    margin-top: 100px;
+}   
